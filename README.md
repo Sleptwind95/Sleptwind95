@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sleptwind95
 - 👀 I’m interested in different kinds of engineering works！
-- 🌱 I’m currently learning in ZJUCST until 2023
+- 🌱 I’m currently learning in ZJUCST
 - 📫 How to reach me : ahlbc@foxmail.com
 
 <!---
